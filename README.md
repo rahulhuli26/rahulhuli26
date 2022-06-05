@@ -1,5 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/337c4e99eb112ec7e52d91f816b239a9381a5685ecad2e6b142a69e73e463d7e/68747470733a2f2f692e6962622e636f2f543142327066352f4d65726e2d6c6f676f2d7265706f2e706e67"/>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=1B5D7AC4&lines=I'm+a+Full-Stack+Web+Developer.;Welcome+to+my+GitHub+Profile!"/>
 <h1 align="center">Hi 👋, I'm Rahul Hulikoppe</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
