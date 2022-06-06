@@ -1,7 +1,7 @@
-<img align="left" alt="Coding" width="400" src="https://camo.githubusercontent.com/337c4e99eb112ec7e52d91f816b239a9381a5685ecad2e6b142a69e73e463d7e/68747470733a2f2f692e6962622e636f2f543142327066352f4d65726e2d6c6f676f2d7265706f2e706e67"/>
-<img align="left" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"/>
+<img align="left" alt="Coding" width="600" src="https://camo.githubusercontent.com/337c4e99eb112ec7e52d91f816b239a9381a5685ecad2e6b142a69e73e463d7e/68747470733a2f2f692e6962622e636f2f543142327066352f4d65726e2d6c6f676f2d7265706f2e706e67"/>
+<!-- <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"/> -->
 <!-- <img align="left" margin-bottom: "20px"; margin-left:"20px" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"/> -->
-<img align="center"  src="https://readme-typing-svg.herokuapp.com?size=28&color=1B5D7AC4&lines=I'm+a+Full-Stack+Web+Developer.;Welcome+to+my+GitHub+Profile!"/>
+<!-- <img align="center"  src="https://readme-typing-svg.herokuapp.com?size=28&color=1B5D7AC4&lines=I'm+a+Full-Stack+Web+Developer.;Welcome+to+my+GitHub+Profile!"/> -->
 <h1 align="center">Hi 👋, I'm Rahul Hulikoppe</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
@@ -24,20 +24,20 @@
 ## Connect with me:-
 <p align="left">
 
-<a href="https://twitter.com/">
-  <img align="left" alt="anjuman" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/HulikoppeRahul">
+  <img align="left" alt="Rahul" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
  
-<a href="https://www.linkedin.com/in/anjuman-ansari-0a3810174/">
-  <img align="left" alt="anjuman" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/rahul-hulikoppe-ab9a89171/">
+  <img align="left" alt="Rahul" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href="https://www.instagram.com/anjuman1602/">
   <img align="left" alt="Siddesh Patil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="https://github.com/anjuman-v">
-  <img align="left" alt="Siddesh Patil" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+<a href="">
+  <img align="left" alt="Rahul" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 </a>
 
 <br />
@@ -67,16 +67,16 @@
 
 ## 📊 My Github Stats
 
-![Anjuman GitHub stats](https://github-readme-stats.vercel.app/api?username=anjuman-v&show_icons=true&theme=radical) 
+![Anjuman GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulhuli26&show_icons=true&theme=radical) 
 
 </br>
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anjuman-v&theme=radical) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulhuli26&theme=radical) 
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjuman-v&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Coolasid/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulhuli26&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Coolasid/github-readme-stats)
 
 </br>
 
@@ -89,7 +89,7 @@
 <br/>
 <br/>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=anjuman-v&theme=gruvbox&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=rahulhuli26&theme=gruvbox&hide_border=true&area=true)
 <br/>
 <br/>
 
